@@ -8,7 +8,7 @@ use Illuminate\Routing\Controller;
 
 
 class BlogController extends Controller
-{
+{ 
     /**
      * Display a listing of the resource.
      * @return Renderable
