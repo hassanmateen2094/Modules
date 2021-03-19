@@ -12,7 +12,7 @@ class BlogController extends Controller
     /**
      * Display a listing of the resource.
      * @return Renderable
-     */
+     */ 
 
      public function contact(){
         return view('blog::new.contact');
